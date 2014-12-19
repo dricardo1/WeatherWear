@@ -1,0 +1,7 @@
+{
+  "volo": {
+    "dependencies": {
+      "underscore": "github:jashkenas/underscore/1.7.0"
+    }
+  }
+}
